@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../snnax_diffrax"
+		},
+		{
+			"path": "../../PINNs"
+		},
+		{
+			"path": "../../capocaccia-spinnaker-workgroup/snntorch"
+		}
+	],
+	"settings": {}
+}
